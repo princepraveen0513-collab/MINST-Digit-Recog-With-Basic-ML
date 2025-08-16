@@ -1,4 +1,4 @@
-# Assignment 10 — Precision/Recall‑Focused Model Selection (MNIST-like)
+# MINST Digit recognition using basic ML
 
 **Notebook:** `MINST_With_Basic_ML.ipynb`
 
